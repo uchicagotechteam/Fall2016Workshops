@@ -23,7 +23,13 @@ To be continued....
 
 ##Searchable Map
 1. Read about <a href="http://derekeder.com/searchable_map_template/">Derek Eder's Searchable Map Template</a>.
-2. Pick a dataset from the <a href="https://data.cityofchicago.org/">City of Chicago Data Portal</a> with geocoded locations. 
+2. Pick a dataset from the <a href="https://data.cityofchicago.org/">City of Chicago Data Portal</a> with geocoded locations. Some examples:
+    * <a href="https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2">Crimes – 2001 to Present</a>
+    * <a href="https://data.cityofchicago.org/Community-Economic-Development/Affordable-Rental-Housing-Developments/s6ha-ppgi">Affordable Rental Housing Developments</a>
+    * <a href="https://data.cityofchicago.org/Community-Economic-Development/Business-Licenses-Current-Active/uupf-x98q">Business Licenses – Current Active</a>
+    * <a href="https://data.cityofchicago.org/Health-Human-Services/Food-Inspections/4ijn-s7e5">Food Inspections</a>
+    * <a href="https://data.cityofchicago.org/Health-Human-Services/Condom-Distribution-Sites/azpf-uc4s">Condom Distribution Sites</a>
+    * <a href="https://data.cityofchicago.org/Community-Economic-Development/Grocery-Stores-2013/53t8-wyrc">Grocery Stores – 2013</a>
 3. Clone his repository: <br>
     ```$ git clone https://github.com/derekeder/FusionTable-Map-Template.git```
 4. Follow the <a href="https://github.com/derekeder/FusionTable-Map-Template/blob/master/README.md">instructions</a>.
