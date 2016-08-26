@@ -1,10 +1,11 @@
 # TechTeam Fall 2016 Workshops
+> Note: must be logged into UChicago account to view the <a href="https://docs.google.com/a/uchicago.edu/document/d/1EPo9_Uao0HWP5cR0CWSLGMSYh0BoRJ_9aUZpcnkcgwI/edit?usp=sharing">syllabus</a> and other materials.
 
 ##Goals
 <ul>
-  <li>Learn how to use terminal and Github</li>
-  <li>Exposure to HTML, CSS, and some Javascript</li>
-  <li>Make personal website with link to a customized <a href="http://derekeder.com/searchable_map_template/">Searchable Map</a></li>
+  <li>Learn how to use terminal and Github.</li>
+  <li>Exposure to HTML, CSS, and some Javascript.</li>
+  <li>Make personal website with link to a customized <a href="http://derekeder.com/searchable_map_template/">Searchable Map</a>.</li>
 </ul>
 
 ##Instructions To Start
@@ -19,7 +20,12 @@
     ```$ git push origin julia-oran-2016```
 
 ##Personal Website
-To be continued....
+1. Make a repository to <a href="https://help.github.com/articles/user-organization-and-project-pages/">host your website on Github</a>.
+2. Find a template you like:
+    * <a href="https://guides.github.com/features/pages/">GitHub Pages</a>
+    * <a href="https://html5up.net/">HTML5 UP</a>
+    * <a href="http://getbootstrap.com/">Bootstrap</a>
+2. Customize the template to meet the requirements.
 
 ##Searchable Map
 1. Read about <a href="http://derekeder.com/searchable_map_template/">Derek Eder's Searchable Map Template</a>.
@@ -30,7 +36,7 @@ To be continued....
     * <a href="https://data.cityofchicago.org/Health-Human-Services/Food-Inspections/4ijn-s7e5">Food Inspections</a>
     * <a href="https://data.cityofchicago.org/Health-Human-Services/Condom-Distribution-Sites/azpf-uc4s">Condom Distribution Sites</a>
     * <a href="https://data.cityofchicago.org/Community-Economic-Development/Grocery-Stores-2013/53t8-wyrc">Grocery Stores – 2013</a>
-3. Clone his repository: <br>
+3. Fork his repository and then clone it so you have a local copy: <br>
     ```$ git clone https://github.com/derekeder/FusionTable-Map-Template.git```
 4. Follow the <a href="https://github.com/derekeder/FusionTable-Map-Template/blob/master/README.md">instructions</a>.
 
