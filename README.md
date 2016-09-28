@@ -8,6 +8,15 @@
   <li>Make personal website with link to a customized <a href="http://derekeder.com/searchable_map_template/">Searchable Map</a>.</li>
 </ul>
 
+##Lessons
+> Note: lessons will be uploaded after they are taught.
+
+1. Terminal <br>
+2. GitHub <br>
+3. HTML & CSS <br>
+4. Personal Website <br>
+5. Searchable Map <br>
+
 ##Instructions To Start
 1. Clone the repository: <br>
     ```$ git clone https://github.com/uchicagotechteam/Fall2016Workshops.git```
